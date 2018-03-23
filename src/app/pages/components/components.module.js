@@ -5,10 +5,10 @@
 (function () {
   'use strict';
 
-  angular.module('BlurAdmin.pages.components', [
-    'BlurAdmin.pages.components.mail',
-    'BlurAdmin.pages.components.timeline',
-    'BlurAdmin.pages.components.tree',
+  angular.module('RMPA.pages.components', [
+    'RMPA.pages.components.mail',
+    'RMPA.pages.components.timeline',
+    'RMPA.pages.components.tree',
   ])
       .config(routeConfig);
 

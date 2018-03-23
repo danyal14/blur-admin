@@ -5,14 +5,14 @@
 (function () {
   'use strict';
 
-  angular.module('BlurAdmin.theme', [
+  angular.module('RMPA.theme', [
       'toastr',
       'chart.js',
       'angular-chartist',
       'angular.morris-chart',
       'textAngular',
-      'BlurAdmin.theme.components',
-      'BlurAdmin.theme.inputs'
+      'RMPA.theme.components',
+      'RMPA.theme.inputs'
   ]);
 
 })();

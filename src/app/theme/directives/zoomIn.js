@@ -4,7 +4,7 @@
 (function () {
   'use strict';
 
-  angular.module('BlurAdmin.theme')
+  angular.module('RMPA.theme')
       .directive('zoomIn', zoomIn);
 
   /** @ngInject */

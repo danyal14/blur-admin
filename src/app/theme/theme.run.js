@@ -5,7 +5,7 @@
 (function () {
   'use strict';
 
-  angular.module('BlurAdmin.theme')
+  angular.module('RMPA.theme')
     .run(themeRun);
 
   /** @ngInject */

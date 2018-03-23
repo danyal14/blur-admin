@@ -5,7 +5,7 @@
 (function () {
   'use strict';
 
-  angular.module('BlurAdmin.pages.components.timeline')
+  angular.module('RMPA.pages.components.timeline')
       .controller('TimelineCtrl', TimelineCtrl);
 
   /** @ngInject */

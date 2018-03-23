@@ -5,7 +5,7 @@
 (function () {
   'use strict';
 
-  angular.module('BlurAdmin.pages.ui.icons', [])
+  angular.module('RMPA.pages.ui.icons', [])
       .config(routeConfig);
 
   /** @ngInject */

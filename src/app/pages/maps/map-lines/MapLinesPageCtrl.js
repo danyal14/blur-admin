@@ -5,7 +5,7 @@
 (function () {
   'use strict';
 
-  angular.module('BlurAdmin.pages.maps')
+  angular.module('RMPA.pages.maps')
       .controller('MapLinesPageCtrl', MapLinesPageCtrl);
 
   /** @ngInject */
